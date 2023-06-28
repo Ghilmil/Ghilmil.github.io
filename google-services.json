@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936956869280",
+    "firebase_url": "https://ghilmil-mubtadi-default-rtdb.firebaseio.com",
+    "project_id": "ghilmil-mubtadi",
+    "storage_bucket": "ghilmil-mubtadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936956869280:android:46947066d98e5c3260e7c5",
+        "android_client_info": {
+          "package_name": "com.company.Ghilmil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936956869280-g07d7grepm7mmno9gsfm4rmnm1qae0h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4Pz2r2C9cuWMBcjZMXQeqoF3yowPPkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936956869280-g07d7grepm7mmno9gsfm4rmnm1qae0h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
